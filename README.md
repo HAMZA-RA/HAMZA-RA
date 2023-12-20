@@ -2,6 +2,7 @@
 
 # Connect with me:
 <img src="/img/linkedin-light.svg" alt="Linkedin" width="26px" /><a href="https://www.linkedin.com/in/hamza-raisi-093aaa224"/>
+<img src="/img/linkedin-light.svg" alt="Twitter" width="26px" /><a href="https://twitter.com/HamzaRaisi)"/>
 
 <br/><br/><br/><br/>
 
