@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-RA&" alt="hamza-ra" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HAMZA-RA)](https://git.io/streak-stats)
