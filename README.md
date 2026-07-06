@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hλmzλ" target="blank"><img src="https://img.shields.io/twitter/follow/hλmzλ?logo=twitter&style=for-the-badge" alt="hλmzλ" /></a> </p>
 
-- 🔭 I’m currently working on **Safety**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **Capacitor: Cross-platform Native Runtime for Web Apps**
 
 - 📫 How to reach me **hamza.raissi99@gmail.com**
-
-- ⚡ Fun fact **I Think I'm Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
