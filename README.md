@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HΛMZΛ RΛISI</h1>
 <h3 align="center">𝓘𝓣 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓹𝓻𝓪𝓬𝓽𝓲𝓬𝓪𝓵 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-ra" alt="hamza-ra" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-ra&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-ra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hλmzλ" target="blank"><img src="https://img.shields.io/twitter/follow/hλmzλ?logo=twitter&style=for-the-badge" alt="hλmzλ" /></a> </p>
 
